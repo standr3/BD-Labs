@@ -1,1 +1,2 @@
-# BD-Labs
+# BD-Labs  
+lab2: CREATE TABLE, CONSTRAINTS
